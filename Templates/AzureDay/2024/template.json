@@ -1,10 +1,16 @@
 {
-    "PdfTemplateUrl":"https://raw.githubusercontent.com/DotNetCodeIT/Attestati/refs/heads/main/Templates/AzureDay/2024/template.pdf",
-    "Text":{
-        "Font":"Verdana",
-        "FontSize":32,
-        "Color":"#FFFFFF",
-        "PointX":480,
-        "PointY":720
+    "Pdf":{
+        "TemplateUrl":"https://raw.githubusercontent.com/DotNetCodeIT/Attestati/refs/heads/main/Templates/AzureDay/2024/template.pdf",
+        "Text":{
+            "Font":"Verdana",
+            "FontSize":32,
+            "Color":"#FFFFFF",
+            "PointX":480,
+            "PointY":720
+        }
+    },
+    "Email":{
+        "Subject":"Attestato di partecipazione ad AzureDay 2024",
+        "Body":"Gentile partecipante, in allegato troverai il tuo attestato di partecipazione ad AzureDay 2024. Grazie per aver partecipato all'evento!"
     }
 }
