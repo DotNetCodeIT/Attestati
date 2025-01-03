@@ -3,14 +3,14 @@
         "TemplateUrl":"https://raw.githubusercontent.com/DotNetCodeIT/Attestati/refs/heads/main/Templates/AIDay/2025/template.pdf",
         "Text":{
             "Font":"Verdana",
-            "FontSize":32,
+            "FontSize":36,
             "Color":"#ff6a00",
             "PointX":480,
-            "PointY":270
+            "PointY":260
         }
     },
     "Email":{
-        "Subject":"Attestato di partecipazione ad AI Day 2025",
-        "Body":"Gentile partecipante, in allegato troverai il tuo attestato di partecipazione ad AI Day 2025. Grazie per aver partecipato all'evento!"
+        "Subject":"A.I. Day 2025: Attestato di partecipazione",
+        "Body":"<p>Gentile partecipante, in allegato troverai il tuo attestato di partecipazione ad A.I. Day 2025.</p><BR>Grazie per aver partecipato all'evento!"
     }
 }
