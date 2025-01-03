@@ -1,0 +1,10 @@
+{
+    "PdfTemplateUrl":"https://raw.githubusercontent.com/DotNetCodeIT/Attestati/4db76c3cc36c7ee54efbb363086c29c6317ebd2c/Templates/AIDay/2025/template.pdf",
+    "Text":{
+        "Font":"Arial",
+        "FontSize":12,
+        "Color":"#000000",
+        "PointX":0,
+        "PointY":0
+    }
+}
