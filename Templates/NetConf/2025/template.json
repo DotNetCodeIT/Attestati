@@ -1,0 +1,16 @@
+{
+    "Pdf":{
+        "TemplateUrl":"https://raw.githubusercontent.com/DotNetCodeIT/Attestati/refs/heads/main/Templates/NetConf/2025/template.pdf",
+        "Text":{
+            "Font":"Verdana",
+            "FontSize":28,
+            "Color":"#ffFFFF",
+            "PointX":80,
+            "PointY":260
+        }
+    },
+    "Email":{
+        "Subject":".NET Conference 2025: Attestato di partecipazione",
+        "Body":"<p>Gentile partecipante, in allegato troverai il tuo attestato di partecipazione a .NET Conference 2025.</p><BR>Grazie per aver partecipato all'evento!"
+    }
+}
