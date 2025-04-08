@@ -5,8 +5,8 @@
             "Font":"Verdana",
             "FontSize":28,
             "Color":"#ffFFFF",
-            "PointX":300,
-            "PointY":180
+            "PointX":250,
+            "PointY":200
         }
     },
     "Email":{
