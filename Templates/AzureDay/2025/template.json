@@ -11,6 +11,6 @@
     },
     "Email":{
         "Subject":"Azure Day 2025: Attestato di partecipazione",
-        "Body":"Gentile partecipante, <br />in allegato troverai il tuo attestato di partecipazione ad Azure Day 2025. <br />Inviaci la tua valutazione dell'evento: <a href='http://bit.ly/azureday2025_sondaggio'>http://bit.ly/azureday2025_sondaggio</a> <br/><br/>Grazie per aver partecipato all'evento!"
+        "Body":"Gentile partecipante, <br />in allegato troverai il tuo attestato di partecipazione ad Azure Day 2025. <br />Inviaci la tua valutazione dell'evento: <a href='http://bit.ly/azureday2025_sondaggio'>http://bit.ly/azureday2025_sondaggio</a> <br/><br/>Grazie per aver partecipato all'evento!<br/>Lo staff di Azure Day"
     }
 }
