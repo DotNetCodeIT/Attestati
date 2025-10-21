@@ -1,6 +1,6 @@
 {
     "Pdf":{
-        "TemplateUrl":"https://raw.githubusercontent.com/DotNetCodeIT/Attestati/refs/heads/main/Templates/AIDay/2025/template.pdf",
+        "TemplateUrl":"https://raw.githubusercontent.com/DotNetCodeIT/Attestati/refs/heads/main/Templates/AIDayReloaded/2025/template.pdf",
         "Text":{
             "Font":"Verdana",
             "FontSize":36,
