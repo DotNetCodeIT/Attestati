@@ -10,7 +10,7 @@
         }
     },
     "Email":{
-        "Subject":"A.I. Day 2025: Attestato di partecipazione",
-        "Body":"<p>Gentile partecipante, in allegato troverai il tuo attestato di partecipazione ad A.I. Day 2025.</p><BR>Grazie per aver partecipato all'evento!"
+        "Subject":"AI Day 2025 Reloaded: Attestato di partecipazione",
+        "Body":"Gentile partecipante, <br />in allegato troverai il tuo attestato di partecipazione ad AI Day 2025 Reloaded. <br />Inviaci la tua valutazione dell'evento: <a href='https://bit.ly/aidayreloaded2025_sondaggio'>https://bit.ly/aidayreloaded2025_sondaggio</a> <br/><br/>Grazie per aver partecipato all'evento!<br/>Lo staff di AI Day 2025 Reloaded"
     }
 }
