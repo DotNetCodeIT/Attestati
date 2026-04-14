@@ -1,0 +1,16 @@
+{
+    "Pdf":{
+        "TemplateUrl":"https://raw.githubusercontent.com/DotNetCodeIT/Attestati/refs/heads/main/Templates/AIDayReloaded/2026/template.pdf",
+        "Text":{
+            "Font":"Verdana",
+            "FontSize":36,
+            "Color":"#ff6a00",
+            "PointX":480,
+            "PointY":260
+        }
+    },
+    "Email":{
+        "Subject":"A.I. Day 2026: Attestato di partecipazione",
+        "Body":"<p>Gentile partecipante, in allegato troverai il tuo attestato di partecipazione ad A.I. Day 2026.</p><BR>Grazie per aver partecipato all'evento!"
+    }
+}
