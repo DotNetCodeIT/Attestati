@@ -2,7 +2,7 @@
     "Pdf":{
         "TemplateUrl":"https://raw.githubusercontent.com/DotNetCodeIT/Attestati/refs/heads/main/Templates/AIDay/2026/template.pdf",
         "Text":{
-            "Font":"Verdana",
+            "Font":"Arial",
             "FontSize":36,
             "Color":"#ff6a00",
             "PointX":480,
